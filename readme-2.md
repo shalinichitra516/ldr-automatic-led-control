@@ -40,7 +40,7 @@ The LDR and resistor form the sensing section of the circuit. The output of this
 **RESULT**
 
 The LDR-based automatic LED control circuit was successfully constructed and tested. The LED operation changes according to the light intensity detected by the LDR.  
-![][image2]
+![image2](simulation.jpg)
 
 ![][image3]  
 **APPLICATION**
