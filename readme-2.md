@@ -27,7 +27,7 @@ To design and implement a simple circuit using an LDR, NPN transistor and LED to
 **CIRCUIT CONNECTION**
 
 The LDR and resistor form the sensing section of the circuit. The output of this section is connected to the base of the NPN transistor. The transistor controls the current through the LED and its resistor.  
-![][image1]  
+![image1](Circuit.jpg)
 **PROCEDURE**
 
 1. Connect the components on the breadboard according to the circuit diagram.  
